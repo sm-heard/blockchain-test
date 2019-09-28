@@ -20,8 +20,5 @@ public class Block implements Serializable {
   }
 
 
-  public String calculateHash(){
-
-  }
 
 }
